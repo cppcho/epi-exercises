@@ -7,7 +7,7 @@ class Node
   end
 end
 
-# BST in p.105
+# BST in p.73
 D = Node.new(28)
 E = Node.new(0)
 C = Node.new(271, left: D, right: E)
